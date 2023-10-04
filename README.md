@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm Kushvith<br>👯i'm currently pursuing a bachelor's degree in Computer Science at ACS College of Engineering<br>🌱 I possess a strong skill set that enables me to develop projects across various domains, including full-stack web development, Android application development, and machine learning and deep learning.<br>💬 Contact [kushvith](kushvith.great-site.net)
+🔭 I'm Kushvith<br>👯i'm currently pursuing a bachelor's degree in Computer Science at ACS College of Engineering<br>🌱 I possess a strong skill set that enables me to develop projects across various domains, including full-stack web development, Android application development, and machine learning and deep learning.<br>💬 Contact [kushvith](http://kushvith.great-site.net/?i=1#contact)
 
 
 ## 🌐 Socials:
