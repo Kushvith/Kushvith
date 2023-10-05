@@ -4,7 +4,12 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/mwlite/in/kushvith-chinna-30b552272) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kushvith&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kushvith&theme=dark&hide_border=false)<br/>
 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 [![](https://visitcount.itsvg.in/api?id=Kushvith&icon=0&color=0)](https://visitcount.itsvg.in)
 
